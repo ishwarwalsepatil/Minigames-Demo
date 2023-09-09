@@ -1,0 +1,60 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label start is defined twice, at File "game/script.rpy", line 21:
+label start:
+and File "game/script.rpy", line 126:
+label start:
+
+
+The label after_battle1_w is defined twice, at File "game/script.rpy", line 29:
+label after_battle1_w:
+and File "game/script.rpy", line 137:
+label after_battle1_w:
+
+
+The label after_battle1_f is defined twice, at File "game/script.rpy", line 38:
+label after_battle1_f:
+and File "game/script.rpy", line 145:
+label after_battle1_f:
+
+
+The label after_battle1_continue is defined twice, at File "game/script.rpy", line 49:
+label after_battle1_continue:
+and File "game/script.rpy", line 150:
+label after_battle1_continue:
+
+
+The label after_battle2_w is defined twice, at File "game/script.rpy", line 62:
+label after_battle2_w:
+and File "game/script.rpy", line 164:
+label after_battle2_w:
+
+
+The label after_battle2_f is defined twice, at File "game/script.rpy", line 72:
+label after_battle2_f:
+and File "game/script.rpy", line 170:
+label after_battle2_f:
+
+
+The label after_battle3_w is defined twice, at File "game/script.rpy", line 86:
+label after_battle3_w:
+and File "game/script.rpy", line 184:
+label after_battle3_w:
+
+
+The label after_battle3_f is defined twice, at File "game/script.rpy", line 96:
+label after_battle3_f:
+and File "game/script.rpy", line 201:
+label after_battle3_f:
+
+
+The label after_battle4_w is defined twice, at File "game/script.rpy", line 105:
+    label after_battle4_w:
+and File "game/script.rpy", line 216:
+    label after_battle4_w:
+
+
+Ren'Py Version: Ren'Py 7.5.2.22081402
+Sat Sep  9 16:21:15 2023
